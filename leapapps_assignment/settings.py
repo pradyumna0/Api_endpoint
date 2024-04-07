@@ -78,7 +78,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'leapapps_assignment.wsgi.application'
+WSGI_APPLICATION = 'leapapps_assignment.wsgi.app'
 
 
 # Database
